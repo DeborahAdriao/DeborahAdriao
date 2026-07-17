@@ -25,6 +25,8 @@ Minha stack técnica abrange desde a construção de interfaces até a manipula�
   <img align="center" alt="JS" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/js.png">
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/bootstrap.png">
 </div>
+<img width="512" height="512" alt="html5" src="https://github.com/user-attachments/assets/d2b8c379-c3a4-477d-a548-5a7af9165254" />
+
 
 ### Back-end, Dados e Bancos de Dados:
 <div style="display: inline_block">
