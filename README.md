@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou Deborah Adrião!
+Sou estudante de Sistemas de Informação na Universidade de Pernambuco (UPE) e entusiasta do desenvolvimento de software. Meu foco principal reside no **Front-end**, onde busco criar interfaces funcionais, intuitivas e inclusivas, sempre aliadas a uma base técnica sólida desenvolvida através de experiências em Backend e Banco de Dados.
 
-<!--
-**DeborahAdriao/DeborahAdriao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+:computer: Minha trajetória é marcada pela curiosidade técnica e pela proatividade. Acredito que a tecnologia é uma ferramenta de transformação e estou sempre em busca de novos desafios, projetos colaborativos e oportunidades de aprendizado contínuo. Sou uma profissional organizada, dedicada ao aprimoramento constante e com facilidade para trabalhar em equipe, valorizando a troca de conhecimento e o alcance de objetivos comuns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Experiência e Formação Acadêmica
+- *Monitoria Acadêmica:* Atuo como monitora de Cálculo Diferencial e Integral e de Probabilidade e Estatística, exercendo um papel ativo no suporte aos estudantes e no aprimoramento didático.
+- *Extensão Universitária:* Possuo experiência consolidada como extensionista em projetos da UPE, atuando em duas edições distintas para a promoção da universidade.
+- *Formação Contínua:* Além da graduação, busco constante atualização através de cursos especializados:
+
+- FrontEnd com IA e Dev Agents de IA (Google/Alura).
+- Python para Ciência de Dados em Saúde Pública (UPE).
+
+## 🛠 Tecnologias e Ferramentas
+Minha stack técnica abrange desde a construção de interfaces até a manipulação de dados:
+
+### Front-end:
+
+### Back-end, Dados e Bancos de Dados:
+
+### Hardware e Ferramentas:
