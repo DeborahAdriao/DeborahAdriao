@@ -19,15 +19,19 @@ Sou estudante de Sistemas de Informação na Universidade de Pernambuco (UPE) e 
 Minha stack técnica abrange desde a construção de interfaces até a manipulação de dados:
 
 ### Front-end:
-[![HTML5](html5.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](css3.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](js.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Bootstrap](bootstrap.png)](https://getbootstrap.com/)
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/html5.png">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/css3.png">
+  <img align="center" alt="JS" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/js.png">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/bootstrap.png">
+</div>
 
 ### Back-end, Dados e Bancos de Dados:
-[![Java](java.png)](https://www.java.com/)
-[![Python](python.png)](https://www.python.org/)
-[![FastAPI](image_1222a0.png)](https://fastapi.tiangolo.com/)
-[![SQL](servidor-sql.png)](https://www.mysql.com/)
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/java.png">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/python.png">
+  <img align="center" alt="FastAPI" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/image_1222a0.png">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/servidor-sql.png">
+</div>
 
 ---
