@@ -20,20 +20,18 @@ Minha stack técnica abrange desde a construção de interfaces até a manipula�
 
 ### Front-end:
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/html5.png">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/css3.png">
-  <img align="center" alt="JS" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/js.png">
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/bootstrap.png">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/user-attachments/assets/d2b8c379-c3a4-477d-a548-5a7af9165254">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/user-attachments/assets/9858afaf-6fc1-4732-9de8-2b5f6c70edcc">
+  <img align="center" alt="JS" height="40" width="40" src="https://github.com/user-attachments/assets/778e3d2e-78f2-401f-9725-477212bf85a2">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/user-attachments/assets/2e85bd59-e4a1-4b34-ad8c-04340b429706">
 </div>
-<img width="512" height="512" alt="html5" src="https://github.com/user-attachments/assets/d2b8c379-c3a4-477d-a548-5a7af9165254" />
-
 
 ### Back-end, Dados e Bancos de Dados:
 <div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/java.png">
-  <img align="center" alt="Python" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/python.png">
-  <img align="center" alt="FastAPI" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/image_1222a0.png">
-  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/servidor-sql.png">
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/user-attachments/assets/474546b9-e51a-416d-b06b-cf612fe589b2">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/user-attachments/assets/bb7d731a-dba4-4350-87d2-2cb245fc76e5">
+  <img align="center" alt="FastAPI" height="40" width="40" src="https://github.com/user-attachments/assets/d1799d80-e344-44dc-bf59-0f72e6500548">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/user-attachments/assets/ffe03df4-d017-4662-ba10-470854b7f3bd">
 </div>
 
 ---
