@@ -8,18 +8,28 @@ Sou estudante de Sistemas de Informação na Universidade de Pernambuco (UPE) e 
 ---
 
 ## 🎓 Experiência e Formação Acadêmica
-- *Monitoria Acadêmica:* Atuo como monitora de Cálculo Diferencial e Integral e de Probabilidade e Estatística, exercendo um papel ativo no suporte aos estudantes e no aprimoramento didático.
-- *Extensão Universitária:* Possuo experiência consolidada como extensionista em projetos da UPE, atuando em duas edições distintas para a promoção da universidade.
-- *Formação Contínua:* Além da graduação, busco constante atualização através de cursos especializados:
-
-- FrontEnd com IA e Dev Agents de IA (Google/Alura).
-- Python para Ciência de Dados em Saúde Pública (UPE).
+- **Monitoria Acadêmica:** Atuo como monitora de Cálculo Diferencial e Integral e de Probabilidade e Estatística, exercendo um papel ativo no suporte aos estudantes e no aprimoramento didático.
+- **Extensão Universitária:** Possuo experiência consolidada como extensionista em projetos da UPE, atuando em duas edições distintas para a promoção da universidade.
+- **Formação Contínua:** Além da graduação, busco constante atualização através de cursos especializados:
+- [x] FrontEnd com IA e Dev Agents de IA (Google/Alura).
+- [x]Python para Ciência de Dados em Saúde Pública (UPE).
+--- 
 
 ## 🛠 Tecnologias e Ferramentas
 Minha stack técnica abrange desde a construção de interfaces até a manipulação de dados:
 
 ### Front-end:
+<p align="left">
+  <img src="assets/html5.png" height="40" alt="HTML5" />
+  <img src="assets/css3.png" height="40" alt="CSS3" />
+  <img src="assets/js.png" height="40" alt="JavaScript" />
+  <img src="assets/bootstrap.png" height="40" alt="Bootstrap" />
+</p>
 
 ### Back-end, Dados e Bancos de Dados:
-
-### Hardware e Ferramentas:
+<p align="left">
+  <img src="assets/java.png" height="40" alt="Java" />
+  <img src="assets/python.png" height="40" alt="Python" />
+  <img src="assets/image_1222a0.png" height="40" alt="FastAPI" />
+  <img src="assets/servidor-sql.png" height="40" alt="SQL" />
+</p>
