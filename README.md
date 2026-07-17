@@ -20,16 +20,18 @@ Minha stack técnica abrange desde a construção de interfaces até a manipula�
 
 ### Front-end:
 <p align="left">
-  <img src="assets/html5.png" height="40" alt="HTML5" />
-  <img src="assets/css3.png" height="40" alt="CSS3" />
-  <img src="assets/js.png" height="40" alt="JavaScript" />
-  <img src="assets/bootstrap.png" height="40" alt="Bootstrap" />
+  <img src="html5.png" height="20" /> HTML5  
+  <img src="css3.png" height="20" /> CSS3  
+  <img src="js.png" height="20" /> JavaScript  
+  <img src="bootstrap.png" height="20" /> Bootstrap
 </p>
 
 ### Back-end, Dados e Bancos de Dados:
 <p align="left">
-  <img src="assets/java.png" height="40" alt="Java" />
-  <img src="assets/python.png" height="40" alt="Python" />
-  <img src="assets/image_1222a0.png" height="40" alt="FastAPI" />
-  <img src="assets/servidor-sql.png" height="40" alt="SQL" />
+  <img src="java.png" height="20" /> Java  
+  <img src="python.png" height="20" /> Python  
+  <img src="image_1222a0.png" height="20" /> FastAPI  
+  <img src="servidor-sql.png" height="20" /> SQL
 </p>
+
+---
