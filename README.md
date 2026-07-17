@@ -12,26 +12,22 @@ Sou estudante de Sistemas de Informação na Universidade de Pernambuco (UPE) e 
 - **Extensão Universitária:** Possuo experiência consolidada como extensionista em projetos da UPE, atuando em duas edições distintas para a promoção da universidade.
 - **Formação Contínua:** Além da graduação, busco constante atualização através de cursos especializados:
 - [x] FrontEnd com IA e Dev Agents de IA (Google/Alura).
-- [x]Python para Ciência de Dados em Saúde Pública (UPE).
+- [x] Python para Ciência de Dados em Saúde Pública (UPE).
 --- 
 
 ## 🛠 Tecnologias e Ferramentas
 Minha stack técnica abrange desde a construção de interfaces até a manipulação de dados:
 
 ### Front-end:
-<p align="left">
-  <img src="html5.png" height="20" /> HTML5  
-  <img src="css3.png" height="20" /> CSS3  
-  <img src="js.png" height="20" /> JavaScript  
-  <img src="bootstrap.png" height="20" /> Bootstrap
-</p>
+[![HTML5](html5.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](css3.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](js.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Bootstrap](bootstrap.png)](https://getbootstrap.com/)
 
 ### Back-end, Dados e Bancos de Dados:
-<p align="left">
-  <img src="java.png" height="20" /> Java  
-  <img src="python.png" height="20" /> Python  
-  <img src="image_1222a0.png" height="20" /> FastAPI  
-  <img src="servidor-sql.png" height="20" /> SQL
-</p>
+[![Java](java.png)](https://www.java.com/)
+[![Python](python.png)](https://www.python.org/)
+[![FastAPI](image_1222a0.png)](https://fastapi.tiangolo.com/)
+[![SQL](servidor-sql.png)](https://www.mysql.com/)
 
 ---
